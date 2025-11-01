@@ -5,13 +5,6 @@
 ![CatBoost](https://img.shields.io/badge/CatBoost-Model-orange?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikitlearn)
-
----
-
-## 🎥 Project Demo  
-
-![Project Demo](https://placehold.co/800x400/000000/FFFFFF/gif?text=Airbnb+Price+Prediction+Demo)
-
 ---
 
 ## 📘 Project Overview  
