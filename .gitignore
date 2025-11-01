@@ -224,3 +224,5 @@ __pycache__/
 # SQL files (optional)
 *.mdf
 *.ldf
+notebooks/04_verifications.ipynb
+notebooks/05_clustering.ipynb
