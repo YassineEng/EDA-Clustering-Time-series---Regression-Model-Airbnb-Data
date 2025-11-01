@@ -226,3 +226,4 @@ __pycache__/
 *.ldf
 notebooks/04_verifications.ipynb
 notebooks/05_clustering.ipynb
+notebooks/04_verifications.ipynb
